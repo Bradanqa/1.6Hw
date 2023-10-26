@@ -1,5 +1,4 @@
-#pragma once
-#include <iostream>
+#include "Mathh.h"
 
 void add(int numOne, int numTwo) {
 

@@ -18,9 +18,12 @@
     <ClCompile Include="1.6.1.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Mathh.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Header.h">
+    <ClInclude Include="Mathh.h">
       <Filter>Source Files</Filter>
     </ClInclude>
   </ItemGroup>
